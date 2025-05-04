@@ -1,0 +1,31 @@
+Checklist:
+
+
+Frontend: React, javascript, tailwind
+backend: python, charles schwab API
+
+
+
+First priority:
+
+- get the frontend laid out
+    - app screens
+    - components 
+
+- get the backend laid out
+    -setup data stream using charles schwab api
+    -setup data tracking
+
+
+
+future features
+
+- options data collection and analyst
+    - Setup watchlist features
+- learn machine learning
+    -Goals:
+      [ ]  - identify my usual trading setups and push alerts  
+      [ ]  - identify option flows and filter out noise
+      [ ]  - identify reversals or consolidations on multiple timeframes
+      [ ]  - tabulate data on EMR market bias performance
+      [ ]  - identify support and resistances based on my preferences 
